@@ -1,0 +1,43 @@
+_repo: KippsThe-Story-of-a-Simple-Soul_39162
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39162-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+description: "Kipps: The Story of a Simple Soul is a novel by H. G. Wells, first published\
+  \ in 1905. Humorous yet sympathetic, the perceptive social novel is generally regarded\
+  \ as a masterpiece, and it was his own favourite work.\nIt was adapted into the\
+  \ stage and cinema musical Half a Sixpence.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2012-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39162'
+  wikidata: Q1249082
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Working class -- Fiction'
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Great Britain -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Young men -- Fiction'
+- !lcc 'PR'
+title: 'Kipps: The Story of a Simple Soul'
+url: http://www.gutenberg.org/ebooks/39162
+wikipedia:
+- https://uk.wikipedia.org/wiki/%D0%9A%D1%96%D0%BF%D0%BF%D1%81
+- https://sh.wikipedia.org/wiki/Kipps
+- https://en.wikipedia.org/wiki/Kipps
+- https://it.wikipedia.org/wiki/Kipps
+- https://pt.wikipedia.org/wiki/Kipps
