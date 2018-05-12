@@ -16,6 +16,8 @@ description: "Kipps: The Story of a Simple Soul is a novel by H. G. Wells, first
   \ in 1905. Humorous yet sympathetic, the perceptive social novel is generally regarded\
   \ as a masterpiece, and it was his own favourite work.\nIt was adapted into the\
   \ stage and cinema musical Half a Sixpence.\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39162#KippsThe-Story-of-a-Simple-Soul
 gutenberg_issued: '2012-03-16'
 gutenberg_type: Text
 identifiers:
